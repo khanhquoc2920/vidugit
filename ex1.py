@@ -1,2 +1,1 @@
-hoten = "quoc khanh"
-print(hoten)
+print(type(0xFF))
